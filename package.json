@@ -1,0 +1,26 @@
+{
+  "name": "metadata-files-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "multer": "^1.1.0",
+    "cors": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonlazzarin/metadata-files-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonlazzarin/metadata-files-app/issues"
+  },
+  "homepage": "https://github.com/eltonlazzarin/metadata-files-app#readme"
+}
